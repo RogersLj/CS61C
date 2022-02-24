@@ -1,0 +1,2 @@
+CLK-to-Q Delay + Mul Delay + Setup Time = 10 + 60 + 10 = 80 ns
+f = 1 / 80 = 12.5 MHz
